@@ -11,36 +11,12 @@ I built full responsive and modern food delivery website. In this project you ca
 * `REACT JS`
 * `NODE JS`
 
-## 🚦 Running the Project
 
-To run the project in your local environment, follow these steps: ⬇️
 
-## 1️⃣ You need: 
 
-- Vite Tool
-- NodeJs.
-- Database (`MongoDB`) Free Cluster.
 
-## 2️⃣ Create .env file:
 
-Create a .env file to store your credentials:
-
-- `MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/food-del`
-
-## 3️⃣ Download npm packages and Vite tool:
-
-For the backend side follow these steps: ⬇️
-
-1. Run `npm install` in the project directory to install the required dependencies.
-2. Run `npm run dev` to get the project started.
-3. Open [http://localhost:4000](http://localhost:4000) (or the address shown in your console) in your web browser to view the app.
-
-For the frontend side follow these steps: ⬇️
-
-1. Run `cd mern-food-delivery-website/frontend/` & `cd mern-food-delivery-website/admin/` should go both folder field.
-2. Run `npm install` in the project directory to install the required dependencies.
-3. Run `npm run dev` to get the project started.
-4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
+#. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
 ## 🌍 How it looks
 
